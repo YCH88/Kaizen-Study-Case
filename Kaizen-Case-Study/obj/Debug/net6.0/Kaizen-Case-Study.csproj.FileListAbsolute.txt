@@ -1,0 +1,17 @@
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Kaizen-Case-Study.exe
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Kaizen-Case-Study.deps.json
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Kaizen-Case-Study.runtimeconfig.json
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Kaizen-Case-Study.dll
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Kaizen-Case-Study.pdb
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.csproj.AssemblyReference.cache
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.AssemblyInfoInputs.cache
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.AssemblyInfo.cs
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.csproj.CoreCompileInputs.cache
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.dll
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\refint\Kaizen-Case-Study.dll
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.pdb
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.genruntimeconfig.cache
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\ref\Kaizen-Case-Study.dll
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yrkn8\source\repos\Kaizen-Case-Study\Kaizen-Case-Study\obj\Debug\net6.0\Kaizen-Case-Study.csproj.CopyComplete

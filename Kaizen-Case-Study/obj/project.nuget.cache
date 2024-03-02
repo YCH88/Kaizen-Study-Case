@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfeDG8/GDqzSE6J5pzGl4QM22kkPRhRJnEWbv+MqMf4sd3hC3W7ma5IGAwMuJRiXrkIKd7TixMqKmy30VIHr7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yrkn8\\source\\repos\\Kaizen-Case-Study\\Kaizen-Case-Study\\Kaizen-Case-Study.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yrkn8\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
